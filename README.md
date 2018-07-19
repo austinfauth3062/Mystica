@@ -1,2 +1,0 @@
-# Mystica
-My terraria mod.
